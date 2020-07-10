@@ -30,8 +30,9 @@
 
 ## Pour me contacter ou me suivre
 
-<img src="LI-In-Bug.png" width="100" title="hover text">
-<img src="Twitter_Logo_Blue.png" width="100" title="hover text">
+<a title="PICOL, PIctorial COmmunication Language / CC BY (https://creativecommons.org/licenses/by/3.0)" href="mailto:laurent.em@free.fr"><img width="32" alt="PICOL icon Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/32px-PICOL_icon_Mail.svg.png"></a><img src="LI-In-Bug.png" width="32" title="hover text"> <img src="Twitter_Logo_Blue.png" width="32" title="hover text">
+
+https://commons.wikimedia.org/wiki/File:PICOL_icon_Mail.svg
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |

@@ -30,6 +30,8 @@
 
 ## Pour me contacter ou me suivre
 
+<img src="LI-In-Bug.png" width="100" title="hover text">
+<img src="Twitter_Logo_Blue.png" width="100" title="hover text">
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |

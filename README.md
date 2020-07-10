@@ -36,4 +36,4 @@
 | Text     | Text     | Text     |
 
 twitter / linkedin / mail / tél. / (logo à mettre)
-![Alt text](images/Twitter_Logo_Blue.png?raw=true "Titleee")
+![Alt text](Twitter_Logo_Blue.png?raw=true "Titleee")

@@ -33,7 +33,7 @@
 
 | Column 1 | Column 2 | Column 3 |
 | -------- | -------- | -------- |
-| Text     | Text     | Text     |
+| ![Alt text](LI-In-Bug.png?raw=true "Titleee")     | ![Alt text](Twitter_Logo_Blue.png?raw=true "Titleee")     | Text     |
 
-twitter / linkedin / mail / tél. / (logo à mettre)
+twitter / linkedin ![Alt text](LI-In-Bug.png?raw=true "Titleee") / mail / tél. / (logo à mettre)
 ![Alt text](Twitter_Logo_Blue.png?raw=true "Titleee")

@@ -25,7 +25,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 > *Pratiques* sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
 [présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
 
-<img src="solarOSE_nevez2018.jpg" width="200" align="middle" title="SolarOSE">
+<img src="solarOSE_nevez2018.jpg" width="400" align="center" title="SolarOSE">
 
 ### Expérimentations labos & sur terrain
   * page vélo mixeur (photos + quelques phrases)

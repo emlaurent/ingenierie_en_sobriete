@@ -4,15 +4,14 @@
 
 Ingénieur physicien de formation et docteur en instrumentation micro-optique. Mon activité actuelle tourne autour de l’ingénierie et le design en low-tech & énergie avec l'idée de fiabiliser ces techniques et de les rendre utilisables régulièrement. Je pratique en atelier-laboratoire le développement de ces technologies sobres en m’appuyant sur des pratiques de tiers-lieux et sur mes connaissances en physique. Ces activités me permettent de développer, puis de transmettre, des pratiques d'ingénierie collaborative, de constitution d'un savoir commun et d'écriture de documentations.
 
-[Mon intention vis-à-vis du développement de technologies sobres](https://pad.lamyne.org/low-tech_intentions_vers_terrains) - ceci est ma posture actuelle et susceptible d'évoluer -
+[Mon intention vis-à-vis du développement de technologies sobres](https://pad.lamyne.org/low-tech_intentions_vers_terrains) - texte susceptible d'évoluer.
 
 ## Mes axes de travail
 
 ### Pratiques des tiers-lieux appliquées au développement de technologies sobres
-  * **Démarche** 
-  [Les démarches collaboratives de la Myne appliquées aux low-tech](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif) - tentative de synthèse
+  * **[Les démarches collaboratives de la Myne appliquées aux low-tech](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif)** - tentative de synthèse
   > Support actuel: contributions à la communauté de [la Myne](https://lamyne.org)<br>
-  Mes activités: co-animation du Conseil Collégial, apports sur la documentation, conciergerie,...
+  Mes activités: co-animation du Conseil Collégial, apports sur la documentation, conciergerie,...<br>
   Pour comprendre la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 
   * **Savoirs communs**
@@ -42,9 +41,9 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * Mines sainté, (lien vers pages, voir ci-dessus)
   * Tables rondes 
     * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
-    * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech)(2019)
-    * [Intervention Low Tech & Design](https://pad.lamyne.org/lowtech_design_181129) durant une rencontre [IxDa](https://www.ixda-lyon.fr/) sur Anthropocène, design des externalités & lowtech. (2018)
-  * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes sur 2 mois (été 2019)
+    * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
+    * [Intervention Low Tech & Design](https://pad.lamyne.org/lowtech_design_181129) durant une rencontre [IxDa](https://www.ixda-lyon.fr/) sur Anthropocène, design des externalités & lowtech. - 2018
+  * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
   <br>
 
 > Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Accompagnement aux notions de low-tech, d'open-source, de communs et de wiki à l'INSA-Lyon.
@@ -52,15 +51,15 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 ## Ecosystèmes en contact & où j'agis
   * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-) où j'y ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)
   * [INSA Lyon](https://www.insa-lyon.fr/)
-  * [Communecter](https://www.communecter.org/#), réseau social libre.
+  * [Communecter](https://www.communecter.org/#): réseau social libre.
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.
   * [La Fabrique des Énergies](https://fabenergies.cc/): incubateur à communs co-porté par Oxamyne, la Fabrique des Mobilités et l'ADEME dont l’intention est de réunir la plus grande diversité de sensibilités, d’expertises et de disciplines liées à l’énergie. 
 
 ## Annonces
 
-* Recherche des **territoires d'expérimentation (ville ou quartier, contexte ou écosystème, lieu de formation ou de partage) en Ile de France** pour y développer les suites de ces actions dans le cadre d'une réponse à l'[AMI low-tech initié par l'ADEME IDF](https://appelsaprojets.ademe.fr/aap/IDFLOWTECH2020-52) (session 2 de déc. 2020).
+* Recherche de **territoires d'expérimentation** (ville ou quartier, contexte ou écosystème, lieu de formation ou de partage) **en Ile de France** pour y développer les suites de ces actions dans le cadre d'une réponse à l'[AMI low-tech initié par l'ADEME IDF](https://appelsaprojets.ademe.fr/aap/IDFLOWTECH2020-52) (session 2 de déc. 2020).
 
-* Création en cours d'un **laboratoire d'expérimentation de technologies sobres** à la Myne > recherche de partenaires et de contributeurs
+* Création en cours d'un **laboratoire d'expérimentation de technologies sobres** à la Myne >> recherche de partenaires et de contributeurs
 
 ## Pour me contacter ou suivre mes activités
 

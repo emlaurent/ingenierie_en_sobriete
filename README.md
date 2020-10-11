@@ -10,9 +10,10 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 
 ### Pratiques des tiers-lieux appliquées au développement de technologies sobres
   * **Démarche** 
-  https://pad.lamyne.org/contributions_myne_low-tech_collaboratif
-  > Support actuel: contributions à la communauté de la Myne<br>
-  (appartenance au Conseil Collégial, apports sur la documentation, conciergerie,...)
+  [Les démarches collaboratives de la Myne appliquées aux low-tech](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif) - tentative de synthèse
+  > Support actuel: contributions à la communauté de [la Myne](https://lamyne.org)<br>
+  Mes activités: co-animation du Conseil Collégial, apports sur la documentation, conciergerie,...
+  Pour comprendre la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 
   * **Savoirs communs**
     * Bibliographie et pratiques de documentation (en cours de formalisation)
@@ -38,12 +39,13 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 ### Transmission & formation
   * Mines sainté, (lien vers pages, voir ci-dessus)
   * Tables rondes 
-    * (INSA,
-    * The Greener Festival, IxDa)
-  * Etika Mondo (page à faire) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes sur 2 mois
+    * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
+    * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech)(2019)
+    * [Intervention Low Tech & Design](https://pad.lamyne.org/lowtech_design_181129) durant une rencontre [IxDa](https://www.ixda-lyon.fr/) sur Anthropocène, design des externalités & lowtech. (2018)
+  * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes sur 2 mois (été 2019)
   <br>
 
-> Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies) - INSA-Lyon -](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Accompagnement aux notions de low-tech, d'open-source, de communs et de wiki.
+> Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Accompagnement aux notions de low-tech, d'open-source, de communs et de wiki à l'INSA-Lyon.
 
 ## Ecosystèmes en contact & où j'agis
   * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-) où j'y ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)
@@ -55,9 +57,3 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 ## Pour me contacter ou suivre mes activités
 
 <a title="PICOL, PIctorial COmmunication Language / CC BY (https://creativecommons.org/licenses/by/3.0)" href="mailto:laurent.em@free.fr"><img width="32" alt="PICOL icon Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/32px-PICOL_icon_Mail.svg.png"></a> - <a title="compte linkedin" href="https://www.linkedin.com/in/emmanuel-laurent-2248304"><img src="LI-In-Bug.png" width="32" title="hover text"></a> - <a title="compte Twitter" href="https://twitter.com/em_laurent"><img src="Twitter_Logo_Blue.png" width="32" title="hover text"></a>
-
-https://commons.wikimedia.org/wiki/File:PICOL_icon_Mail.svg
-
-
-twitter / linkedin ![Alt text](LI-In-Bug.png?raw=true "Titleee") / mail / tél. / (logo à mettre)
-![Alt text](Twitter_Logo_Blue.png?raw=true "Titleee")

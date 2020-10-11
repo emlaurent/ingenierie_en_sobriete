@@ -30,21 +30,23 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
 <br>
 
-> Support actuel:<br>
+> Support actuel:
 > * **[cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
 > * **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
   (ajouter des imagettes de ces réalisations)
 
 ### Transmission & formation
   * Mines sainté, (lien vers pages, voir ci-dessus)
-  * Tables rondes (INSA, Greener good, IxDa)
+  * Tables rondes 
+    * (INSA,
+    * The Greener Festival, IxDa)
   * Etika Mondo (page à faire) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes sur 2 mois
   <br>
 
-> Support actuel: Pastech (INSA)
+> Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies) - INSA-Lyon -](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Accompagnement aux notions de low-tech, d'open-source, de communs et de wiki.
 
 ## Ecosystèmes en contact & où j'agis
-  * La Myne (mon terrain de jeu principal :-) )
+  * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-) où j'y ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)
   * [INSA Lyon](https://www.insa-lyon.fr/)
   * [Communecter](https://www.communecter.org/#), réseau social libre.
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.

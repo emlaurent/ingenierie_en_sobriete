@@ -1,10 +1,8 @@
 # ingénierie en sobriété
 
-:::info
-**Se réapproprier l’usage des technologies avec les questions d'énergies & de ressources en s’appuyant sur l'approche de la sobriété des low-tech.**
+> **Se réapproprier l’usage des technologies avec les questions d'énergies & de ressources en s’appuyant sur l'approche de la sobriété des low-tech.**
 
 Ingénieur physicien de formation et docteur en instrumentation micro-optique. Mon activité actuelle tourne autour de l’ingénierie et le design en low-tech & énergie avec l'idée de fiabiliser ces techniques et de les rendre utilisables régulièrement. Je pratique en atelier-laboratoire le développement de ces technologies sobres en m’appuyant sur des pratiques de tiers-lieux et sur mes connaissances en physique. Ces activités me permettent de développer, puis de transmettre, des pratiques d'ingénierie collaborative, de constitution d'un savoir commun et d'écriture de documentations.
-:::
 
 [Mon intention vis-à-vis du développement de technologies sobres](https://pad.lamyne.org/low-tech_intentions_vers_terrains) - ceci est ma posture actuelle et susceptible d'évoluer -
 
@@ -15,7 +13,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   [Les démarches collaboratives de la Myne appliquées aux low-tech](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif) - tentative de synthèse
   > Support actuel: contributions à la communauté de [la Myne](https://lamyne.org)<br>
   Mes activités: co-animation du Conseil Collégial, apports sur la documentation, conciergerie,...
-  Pour comprendre la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
+  Pour comprendre la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 
   * **Savoirs communs**
     * Bibliographie et pratiques de documentation (en cours de formalisation)
@@ -56,11 +54,11 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.
   * [La Fabrique des Énergies](https://fabenergies.cc/): incubateur à communs co-porté par Oxamyne, la Fabrique des Mobilités et l'ADEME dont l’intention est de réunir la plus grande diversité de sensibilités, d’expertises et de disciplines liées à l’énergie. 
 
-## Annonces !
+## Annonces
 
-:::warning
-terrains d'expérimentations
-:::
+* Recherche des **territoires d'expérimentation (ville ou quartier, contexte ou écosystème, lieu de formation ou de partage) en Ile de France** pour y développer les suites de ces actions dans le cadre d'une réponse à l'[AMI low-tech initié par l'ADEME IDF](https://appelsaprojets.ademe.fr/aap/IDFLOWTECH2020-52) (session 2 de déc. 2020).
+
+* Création en cours d'un **laboratoire d'expérimentation de technologies sobres** à la Myne > recherche de partenaires et de contributeurs
 
 ## Pour me contacter ou suivre mes activités
 

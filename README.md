@@ -12,13 +12,14 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 
 * Je suis impliqué dans la communauté de [la Myne](https://lamyne.org), tiers-lieu à Lyon, et mes contributions sont la co-animation du Conseil Collégial, des apports sur la documentation, la participation à la conciergerie,...
 * Pour vous aider à comprendre ce qu'est la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
-* Dans cet espace de liberté, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)
+* Dans cet espace de liberté, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)<br>
+
 > Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[tentative de synthèse de ma pensée](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif)**
 
-### Savoirs communs
+#### Savoirs communs
 * Bibliographie et pratiques de documentation (en cours de formalisation)
 
-### Ingénierie collaborative & distribuée
+#### Ingénierie collaborative & distribuée
 * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
 > Application sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
 [présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
@@ -38,7 +39,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   (ajouter des imagettes de ces réalisations)
 
 ### Transmission & formation
-  * Mines sainté, (lien vers pages, voir ci-dessus)
+  * Mines sainté, (ajouter une page)
   * Tables rondes 
     * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
     * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
@@ -46,7 +47,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
   <br>
 
-> Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Accompagnement aux notions de low-tech, d'open-source, de communs et de wiki à l'INSA-Lyon.
+> Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
 
 ## Ecosystèmes en contact & où j'agis
   * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-)

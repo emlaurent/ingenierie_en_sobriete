@@ -21,7 +21,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
 <br>
 
-> *Pratiques* sur SolarOSE2, concentrateur solaire low-tech<br>
+> *Pratiques* sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
 [présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
 
 ### Expérimentations labos & sur terrain
@@ -30,8 +30,9 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
 <br>
 
-> Support actuel: **[cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
-> **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
+> Support actuel:<br>
+> * **[cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
+> * **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
   (ajouter des imagettes de ces réalisations)
 
 ### Transmission & formation
@@ -51,7 +52,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 
 ## Pour me contacter ou suivre mes activités
 
-<a title="PICOL, PIctorial COmmunication Language / CC BY (https://creativecommons.org/licenses/by/3.0)" href="mailto:laurent.em@free.fr"><img width="32" alt="PICOL icon Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/32px-PICOL_icon_Mail.svg.png"></a> - <img src="LI-In-Bug.png" width="32" title="hover text"> - <img src="Twitter_Logo_Blue.png" width="32" title="hover text">
+<a title="PICOL, PIctorial COmmunication Language / CC BY (https://creativecommons.org/licenses/by/3.0)" href="mailto:laurent.em@free.fr"><img width="32" alt="PICOL icon Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/32px-PICOL_icon_Mail.svg.png"></a> - <a title="compte linkedin" href="https://www.linkedin.com/in/emmanuel-laurent-2248304"><img src="LI-In-Bug.png" width="32" title="hover text"></a> - <a title="compte Twitter" href="https://twitter.com/em_laurent"><img src="Twitter_Logo_Blue.png" width="32" title="hover text"></a>
 
 https://commons.wikimedia.org/wiki/File:PICOL_icon_Mail.svg
 

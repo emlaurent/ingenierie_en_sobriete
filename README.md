@@ -8,23 +8,31 @@
 
   * **Savoirs communs**
     * bibliographie et documentation (pratiques)
-  * **Ingénierie collaborative & distribuée**
-    * pratique sur SolarOSE2 (lien vers movilab et annuaire)
+### Ingénierie collaborative & distribuée
+  * basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
+  > pratique sur SolarOSE2 (lien vers movilab et annuaire)
 
 ### Expérimentations labos & sur terrain
   * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
   * page vélo mixeur (photos + quelques phrases)
   * page vélo générateur (photos + quelques phrases)
   > support actuel : cuisine mobile & low-tech > conserves
+  **Conserves alimentaire & cuisine low-tech** (lien vers page d'intention)
   (imagettes de ces réalisations)
 
-### Transmission (et formation)
+### Transmission & formation
   * Mines sainté, (lien vers pages, voir ci-dessus)
   * Tables rondes (INSA, Greener good, IxDa)
   * Etika Mondo (page à faire) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes sur 2 mois
   > support actuel: Pastech (INSA), sdad20
 
-## Ou me retrouver pour échanger & expérimenter: actions en cours
+## Ecosystèmes en contact & où j'agis
+  * La Myne (mon terrain de jeu principal :-) )
+  * [INSA Lyon]
+  * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.
+  * [La Fabrique des Énergies](https://fabenergies.cc/): incubateur à communs co-porté par Oxamyne, la Fabrique des Mobilités et l'ADEME dont l’intention est de réunir la plus grande diversité de sensibilités, d’expertises et de disciplines liées à l’énergie. 
+
+Ou me retrouver pour échanger & expérimenter: actions en cours
 **SolarOSE2** (en lien: page movilab, page projet)
 **Conserves alimentaire & cuisine low-tech** (lien vers page d'intention)
 

@@ -26,13 +26,14 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 
 <img src="solarOSE_nevez2018.jpg" width="400" align="center" title="SolarOSE">
 
-### Expérimentations labos & sur terrain
-  * page vélo mixeur (photos + quelques phrases)
-  * page vélo générateur (photos + quelques phrases)
-  * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
-<br>
+### Expérimentations en labo & sur le terrain
+**Programme de recherche Visiblenergie**: Rendre la production et l'utilisation des énergies renouvelables ludique, visible et pratique - 2016-2019
+  * Des vélo mixeur (photos + quelques phrases)
+  * Des vélo générateur (photos + quelques phrases)
+  * Des compteurs communicants (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
+  * [Contribution à la Biennale du Design 2017](biennale_design2017.md)
 
-> Support actuel:
+**Appropriation collective de low-tech**
 > * **[cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
 > * **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
   (ajouter des imagettes de ces réalisations)

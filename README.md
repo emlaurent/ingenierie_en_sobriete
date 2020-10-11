@@ -11,23 +11,25 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 ### Pratiques des tiers-lieux appliquées au développement de technologies sobres
   * **Démarche** 
   https://pad.lamyne.org/contributions_myne_low-tech_collaboratif
-  > support actuel : contributions à la communauté de la Myne<br>
+  > ++Support actuel++ : contributions à la communauté de la Myne<br>
   (appartenance au Conseil Collégial, apports sur la documentation, conciergerie,...)
 
   * **Savoirs communs**
     * Bibliographie et pratiques de documentation (en cours de formalisation)
 
 ### Ingénierie collaborative & distribuée
-  * basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
-  > pratiques sur SolarOSE2, concentrateur solaire low-tech: [présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
+  * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
+
+> ++Pratiques++ sur SolarOSE2, concentrateur solaire low-tech<br>
+[présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
 
 ### Expérimentations labos & sur terrain
   * page vélo mixeur (photos + quelques phrases)
   * page vélo générateur (photos + quelques phrases)
   * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
-  > support actuel : [cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)
-  
-  > **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
+
+> ++Support actuel++ : **[cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
+> **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
   (ajouter des imagettes de ces réalisations)
 
 ### Transmission & formation

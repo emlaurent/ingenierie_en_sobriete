@@ -1,7 +1,14 @@
 # ingénierie en sobriété
+
+**Se réapproprier l’usage des technologies avec les questions d'énergies & de ressources en s’appuyant sur l'approche de la sobriété des low-tech.**
+
+Ingénieur physicien de formation et docteur en instrumentation micro-optique. Mon activité actuelle tourne autour de l’ingénierie et le design en low-tech & énergie avec l'idée de fiabiliser ces techniques et de les rendre utilisables régulièrement. Je pratique en atelier-laboratoire le développement de ces technologies sobres en m’appuyant sur des pratiques de tiers-lieux et sur mes connaissances en physique. Ces activités me permettent de développer, puis de transmettre, des pratiques d'ingénierie collaborative, de constitution d'un savoir commun et d'écriture de documentations.
+
+[Mon intention vis-à-vis du développement de technologies sobres](https://pad.lamyne.org/low-tech_intentions_vers_terrains) - ceci est ma posture actuelle -
+
 ## Mes axes de travail
 
-### Pratiques des tiers-lieu appliqués au développement de la posture low-tech (ingéniérie frugale ?)
+### Pratiques des tiers-lieux appliquées au développement de technologies sobres
   * **Démarche** 
   https://pad.lamyne.org/contributions_myne_low-tech_collaboratif
   > support actuel : contributions à la communauté de la Myne (appartenance au Conseil Collégial, apports sur la documentation, conciergerie,...)

@@ -1,8 +1,10 @@
 # ingénierie en sobriété
 
+:::info
 **Se réapproprier l’usage des technologies avec les questions d'énergies & de ressources en s’appuyant sur l'approche de la sobriété des low-tech.**
 
 Ingénieur physicien de formation et docteur en instrumentation micro-optique. Mon activité actuelle tourne autour de l’ingénierie et le design en low-tech & énergie avec l'idée de fiabiliser ces techniques et de les rendre utilisables régulièrement. Je pratique en atelier-laboratoire le développement de ces technologies sobres en m’appuyant sur des pratiques de tiers-lieux et sur mes connaissances en physique. Ces activités me permettent de développer, puis de transmettre, des pratiques d'ingénierie collaborative, de constitution d'un savoir commun et d'écriture de documentations.
+:::
 
 [Mon intention vis-à-vis du développement de technologies sobres](https://pad.lamyne.org/low-tech_intentions_vers_terrains) - ceci est ma posture actuelle et susceptible d'évoluer -
 
@@ -53,6 +55,12 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Communecter](https://www.communecter.org/#), réseau social libre.
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.
   * [La Fabrique des Énergies](https://fabenergies.cc/): incubateur à communs co-porté par Oxamyne, la Fabrique des Mobilités et l'ADEME dont l’intention est de réunir la plus grande diversité de sensibilités, d’expertises et de disciplines liées à l’énergie. 
+
+## Annonces !
+
+:::warning
+terrains d'expérimentations
+:::
 
 ## Pour me contacter ou suivre mes activités
 

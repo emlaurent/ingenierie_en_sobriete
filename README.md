@@ -39,7 +39,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   (ajouter des imagettes de ces réalisations)
 
 ### Transmission & formation
-  * Mines sainté, (ajouter une page)
+  * [Hackathon à l'Ecole des Mines de Saint-Etienne](dynamo_days_sainte.md) - 2018 à 2020
   * Tables rondes 
     * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
     * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
@@ -47,7 +47,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
   <br>
 
-> Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
+> Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
 
 ## Ecosystèmes en contact & où j'agis
   * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-)

@@ -10,7 +10,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 
 ## Pratiques des tiers-lieux appliquées au développement de technologies sobres
 
-* Je suis impliqué dans la communauté de [la Myne](https://lamyne.org), tiers-lieu à Lyon, et mes contributions sont la co-animation du Conseil Collégial, des apports sur la documentation, la participation à la conciergerie,...
+* Impliqué dans la communauté de [la Myne](https://lamyne.org) - tiers-lieu à Lyon - mes contributions sont la co-animation du Conseil Collégial, des apports sur la documentation, la participation à la conciergerie,...
 * Pour vous aider à comprendre ce qu'est la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 * Dans cet espace de liberté, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)<br>
 
@@ -32,9 +32,9 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 ### Programme de recherche Visiblenergie
 
 **Rendre la production et l'utilisation des énergies renouvelables ludique, visible et pratique** - 2016-2019
-  * Des vélo mixeur (photos + quelques phrases)
-  * Des vélo générateur (photos + quelques phrases)
-  * Des compteurs communicants (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
+  * Des vélos mixeur (photos + quelques phrases)
+  * Des vélos générateur d'énergie (photos + quelques phrases)
+  * Des compteurs connectés (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
   * [Contribution à la Biennale du Design 2017](biennale_design2017.md)
 
 ### Appropriation collective de low-tech
@@ -43,7 +43,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   (ajouter des imagettes de ces réalisations)
 
 ## Transmission & formation
-  * [Ecole des Mines de Saint-Etienne](dynamo_days_mines_sainte.md) - Facilitateur durant des Hackathon 2018 à 2020
+  * [Ecole des Mines de Saint-Etienne](dynamo_days_mines_sainte.md) - Facilitateur durant des Hackathon de 2018 à 2020
   * Tables rondes 
     * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
     * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
@@ -51,7 +51,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
   <br>
 
-> Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
+> Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
 
 # Ecosystèmes en lien
   * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-)

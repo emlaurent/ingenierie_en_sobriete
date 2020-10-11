@@ -9,19 +9,18 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 ## Mes axes de travail
 
 ### Pratiques des tiers-lieux appliquées au développement de technologies sobres
-  * **[Les démarches collaboratives de la Myne appliquées aux low-tech](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif)** - tentative de synthèse
-  > Support actuel: contributions à la communauté de [la Myne](https://lamyne.org)<br>
-  Mes activités: co-animation du Conseil Collégial, apports sur la documentation, conciergerie,...<br>
-  Pour comprendre la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 
-  * **Savoirs communs**
-    * Bibliographie et pratiques de documentation (en cours de formalisation)
+* Je suis impliqué dans la communauté de [la Myne](https://lamyne.org), tiers-lieu à Lyon, et mes contributions sont la co-animation du Conseil Collégial, des apports sur la documentation, la participation à la conciergerie,...
+* Pour vous aider à comprendre ce qu'est la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
+* Dans cet espace de liberté, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)
+> Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[tentative de synthèse de ma pensée](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif)**
+
+### Savoirs communs
+* Bibliographie et pratiques de documentation (en cours de formalisation)
 
 ### Ingénierie collaborative & distribuée
-  * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
-<br>
-
-> *Pratiques* sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
+* Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
+> Application sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
 [présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
 
 <img src="solarOSE_nevez2018.jpg" width="400" align="center" title="SolarOSE">
@@ -50,7 +49,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 > Support actuel: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis publier une synthèse sur un wiki(https://fr.wikiversity.org/wiki/Recherche:Pastech). Accompagnement aux notions de low-tech, d'open-source, de communs et de wiki à l'INSA-Lyon.
 
 ## Ecosystèmes en contact & où j'agis
-  * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-) où j'y ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)
+  * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-)
   * [INSA Lyon](https://www.insa-lyon.fr/)
   * [Communecter](https://www.communecter.org/#): réseau social libre.
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.

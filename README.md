@@ -1,42 +1,40 @@
-# ingenieur-convivial
+# ingénierie en sobriété
 ## Mes axes de travail
 
 ### Pratiques des tiers-lieu appliqués au développement de la posture low-tech (ingéniérie frugale ?)
   * **Démarche** 
   https://pad.lamyne.org/contributions_myne_low-tech_collaboratif
-  > support actuel : contributions à la communauté de la Myne (appartenance au Conseil Collégial, documentations, conciergerie,...)
+  > support actuel : contributions à la communauté de la Myne (appartenance au Conseil Collégial, apports sur la documentation, conciergerie,...)
 
   * **Savoirs communs**
-    * bibliographie et documentation (pratiques)
+    * Bibliographie et pratiques de documentation (en cours de formalisation)
+
 ### Ingénierie collaborative & distribuée
   * basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux
-  > pratique sur SolarOSE2 (lien vers movilab et annuaire)
+  > pratiques sur SolarOSE2, concentrateur solaire low-tech: [présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
 
 ### Expérimentations labos & sur terrain
-  * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
   * page vélo mixeur (photos + quelques phrases)
   * page vélo générateur (photos + quelques phrases)
-  > support actuel : cuisine mobile & low-tech > conserves
-  **Conserves alimentaire & cuisine low-tech** (lien vers page d'intention)
-  (imagettes de ces réalisations)
+  * page compteur communicant (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
+  > support actuel : [cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)
+  > **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
+  (ajouter des imagettes de ces réalisations)
 
 ### Transmission & formation
   * Mines sainté, (lien vers pages, voir ci-dessus)
   * Tables rondes (INSA, Greener good, IxDa)
   * Etika Mondo (page à faire) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes sur 2 mois
-  > support actuel: Pastech (INSA), sdad20
+  > support actuel: Pastech (INSA)
 
 ## Ecosystèmes en contact & où j'agis
   * La Myne (mon terrain de jeu principal :-) )
-  * [INSA Lyon]
+  * [INSA Lyon](https://www.insa-lyon.fr/)
+  * [Communecter](https://www.communecter.org/#), réseau social libre.
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.
   * [La Fabrique des Énergies](https://fabenergies.cc/): incubateur à communs co-porté par Oxamyne, la Fabrique des Mobilités et l'ADEME dont l’intention est de réunir la plus grande diversité de sensibilités, d’expertises et de disciplines liées à l’énergie. 
 
-Ou me retrouver pour échanger & expérimenter: actions en cours
-**SolarOSE2** (en lien: page movilab, page projet)
-**Conserves alimentaire & cuisine low-tech** (lien vers page d'intention)
-
-## Pour me contacter ou me suivre
+## Pour me contacter ou suivre mes activités
 
 <a title="PICOL, PIctorial COmmunication Language / CC BY (https://creativecommons.org/licenses/by/3.0)" href="mailto:laurent.em@free.fr"><img width="32" alt="PICOL icon Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/32px-PICOL_icon_Mail.svg.png"></a> - <img src="LI-In-Bug.png" width="32" title="hover text"> - <img src="Twitter_Logo_Blue.png" width="32" title="hover text">
 

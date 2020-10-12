@@ -1,3 +1,7 @@
+**[Retour à la page principale](README.md)**
+
+# Contribution à l'expérience Tiers-Lieux” de la Biennale du Design
+
 Comme contributeur des Tiers-Lieux de la Myne (Lyon) et d'Openfactory (Saint-Etienne), j'ai été invité sur l'exposition **[“l'expérience Tiers-Lieux” de la Biennale du Design](https://www.biennale-design.com/saint-etienne/2017/fr/programme/?ev=l-experience-tiers-lieux-14)** sur de la micro-production d'énergie pour illustrer les pratiques du fork et du hack.
 
 Tiers-lieux, fork, contributeur, hack ? Si ces notions vous sont peu familières, l'exposition avait pour objectif de les démystifier et de les mettre en pratique avec les visiteurs durant 4 semaines. [Un article sur Makery donne un aperçu de cette exposition](http://www.makery.info/2017/03/21/a-la-biennale-de-saint-etienne-le-travail-nest-plus-ce-quil-etait/) ainsi que de l'ensemble de la biennale.

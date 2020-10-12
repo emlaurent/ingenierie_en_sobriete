@@ -1,4 +1,4 @@
-**[Retour à la page principale](README.md)
+**[Retour à la page principale](README.md)**
 
 # Contributions de l’écosystème de la Myne au développement de low-tech
 **Réflexions en cours**

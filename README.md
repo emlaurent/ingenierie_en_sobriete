@@ -2,32 +2,32 @@
 
 > **Se réapproprier l’usage des technologies avec les questions d'énergies & de ressources en s’appuyant sur l'approche de la sobriété des low-tech.**
 
-Ingénieur physicien de formation et docteur en instrumentation micro-optique. Mon activité actuelle tourne autour de l’ingénierie et le design en low-tech & énergie avec l'idée de fiabiliser ces techniques et de les rendre utilisables régulièrement. Je pratique en atelier-laboratoire le développement de ces technologies sobres en m’appuyant sur des pratiques de tiers-lieux et sur mes connaissances en physique. Ces activités me permettent de développer, puis de transmettre, des pratiques d'ingénierie collaborative, de constitution d'un savoir commun et d'écriture de documentations.
+Ingénieur physicien de formation et docteur en instrumentation micro-optique. Mon activité actuelle tourne autour de l’ingénierie et le design de low-tech avec l'idée de fiabiliser ces techniques et de les rendre utilisables régulièrement. Je pratique en atelier-laboratoire le développement de ces technologies sobres en m’appuyant sur des pratiques coopératives de tiers-lieux et sur mes connaissances en physique. Ces activités me permettent de développer, puis de transmettre, des pratiques d'ingénierie collaborative, de constitution d'un savoir commun et d'écriture de documentations.
 
 [Mon intention vis-à-vis du développement de technologies sobres](https://pad.lamyne.org/low-tech_intentions_vers_terrains) - texte susceptible d'évoluer.
 
 # Mes axes de travail
 
-## Pratiques des tiers-lieux appliquées au développement de technologies sobres
+## A/ Pratiques des tiers-lieux appliquées au développement de technologies sobres
 
 * Impliqué dans la communauté de [la Myne](https://lamyne.org) - tiers-lieu à Lyon - mes contributions sont la co-animation du Conseil Collégial, des apports sur la documentation, la participation à la conciergerie,...
 * Pour vous aider à comprendre ce qu'est la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
-* Dans cet espace de liberté, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)<br>
+* Dans ce laboratoire citoyen, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)<br>
 
 > Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[tentative de synthèse de ma pensée](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif)**
 
 ### Savoirs communs
-* Bibliographie et pratiques de documentation (en cours de formalisation)
+* Bibliographie et pratiques de documentation en tiers-lieux (en cours de formalisation)
 
 ### Ingénierie collaborative & distribuée
 * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux<br>
 
 > Application sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
-[présentation des étapes](https://movilab.org/wiki/Concentrateur_solaire) ou voir directement la [documentation en cours](https://pad.lamyne.org/solarOSE2#)
+[Vue d'ensemble](https://movilab.org/wiki/Concentrateur_solaire) et [documentation des actions en cours](https://pad.lamyne.org/solarOSE2#)
 
 <img src="solarOSE_nevez2018.jpg" width="400" align="center" title="SolarOSE">
 
-## Expérimentations en labo & sur le terrain
+## B/ Expérimentations en labo & sur le terrain
 
 ### Programme de recherche Visiblenergie
 
@@ -38,17 +38,18 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Contribution à la Biennale du Design 2017](biennale_design2017.md)
 
 ### Appropriation collective de low-tech
-> * **[cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
-> * **conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
+> * **[Cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
+> * **Conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
   (ajouter des imagettes de ces réalisations)
 
-## Transmission & formation
+## C/ Transmission & formation
   * [Ecole des Mines de Saint-Etienne](dynamo_days_mines_sainte.md) - Facilitateur durant des Hackathon de 2018 à 2020
+  
   * Tables rondes 
     * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
     * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
     * [Intervention Low Tech & Design](https://pad.lamyne.org/lowtech_design_181129) durant une rencontre [IxDa](https://www.ixda-lyon.fr/) sur Anthropocène, design des externalités & lowtech. - 2018
-  * [Etika Mondo](https://etikamondo.com/) - formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
+  * [Etika Mondo](https://etikamondo.com/) - Formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
   <br>
 
 > Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.

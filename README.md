@@ -61,8 +61,8 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
     * ...
   <br>
 
-<a href="etika_marmitte_norvegienne.jpg"><img src="alec01.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a> 
-<a href="etika_capteur_solaire.jpg"><img src="FdS2018_energie_puissance.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>
+<a href="etika_marmitte_norvegienne.jpg"><img src="etika_marmitte_norvegienne.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a> 
+<a href="etika_capteur_solaire.jpg"><img src="etika_capteur_solaire.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>
 
 
 > Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.

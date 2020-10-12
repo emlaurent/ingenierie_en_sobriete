@@ -34,12 +34,12 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 **Rendre la production et l'utilisation des énergies renouvelables ludique, visible et pratique** - 2016-2019
   * Des vélos mixeur
   * Des vélos générateur d'énergie
-  * Des compteurs connectés (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
+  * [Des compteurs connectés](https://pad.lamyne.org/887uJqRdSqi_RCNRyx97GA#)
   * [Contribution à la Biennale du Design 2017](biennale_design2017.md)
 
-<a href="alec01.jpg"><img src="alec01.jpg" height="250" title="velo"></a> - 
+<a href="alec01.jpg"><img src="alec01.jpg" height="250" title="velo"></a> ---  
 <a href="FdS2018_energie_puissance.jpg"><img src="FdS2018_energie_puissance.jpg" height="250" title="velo"></a> 
-<a href="velo_mixeur_bois.jpg"><img src="velo_mixeur_bois.jpg" height="250" title="velo"></a> - 
+<a href="velo_mixeur_bois.jpg"><img src="velo_mixeur_bois.jpg" height="250" title="velo"></a>  
 <a href="velo_generateur.jpg"><img src="velo_generateur.jpg" height="250" title="velo"></a>
 
 ### Appropriation collective de low-tech

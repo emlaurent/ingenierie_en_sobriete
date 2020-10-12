@@ -52,7 +52,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 <img src="cuisine_abri.png" height="170" title="cuisine mobile">
 
 ## C/ Transmission & formation
-  * [Ecole des Mines de Saint-Etienne](dynamo_days_mines_sainte.md) - Facilitateur durant des Hackathon de 2018 à 2020
+  * Ecole des Mines de Saint-Etienne - [Facilitateur durant des Hackathons](dynamo_days_mines_sainte.md) de 2018 à 2020
   
   * Tables rondes 
     * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019

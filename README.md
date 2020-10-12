@@ -14,7 +14,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 * Pour vous aider à comprendre ce qu'est la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 * Dans ce laboratoire citoyen, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)<br>
 
-> Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[tentative de synthèse de ma pensée](https://pad.lamyne.org/contributions_myne_low-tech_collaboratif)**
+> Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[mon intention](intention_pratiques_collaboratives.md)** - réflexions en cours.
 
 ### Savoirs communs
 * Bibliographie et pratiques de documentation en tiers-lieux (en cours de formalisation)
@@ -57,7 +57,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Etika Mondo](https://etikamondo.com/) - Formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
     * [Machine à laver à pédales](https://pad.lamyne.org/PjxgCj5FTn2hVtwWKuhQfA#) - atelier d'initiation
     * [Marmitte norvégienne](https://pad.lamyne.org/marmite_norvegienne_tuto) 
-    * Parabole solaire
+    * Cuiseur solaire parabolique
     * ...
   <br>
 

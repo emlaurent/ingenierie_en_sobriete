@@ -81,5 +81,6 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 * Création en cours d'un **laboratoire d'expérimentation de technologies sobres** à la Myne >> recherche de partenaires et de contributeurs
 
 # Pour me contacter ou suivre mes activités
-
+<center>
 <a title="PICOL, PIctorial COmmunication Language / CC BY (https://creativecommons.org/licenses/by/3.0)" href="mailto:laurent.em@free.fr"><img width="32" alt="PICOL icon Mail" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/PICOL_icon_Mail.svg/32px-PICOL_icon_Mail.svg.png"></a> - <a title="compte linkedin" href="https://www.linkedin.com/in/emmanuel-laurent-2248304"><img src="LI-In-Bug.png" width="32" title="hover text"></a> - <a title="compte Twitter" href="https://twitter.com/em_laurent"><img src="Twitter_Logo_Blue.png" width="32" title="hover text"></a>
+</center>

@@ -37,7 +37,7 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * [Des compteurs connectés](https://pad.lamyne.org/887uJqRdSqi_RCNRyx97GA#)
   * [Contribution à la Biennale du Design 2017](biennale_design2017.md)
 
-<a href="alec01.jpg"><img src="alec01.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a> ---  
+<a href="alec01.jpg"><img src="alec01.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>   
 <a href="FdS2018_energie_puissance.jpg"><img src="FdS2018_energie_puissance.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a> 
 <a href="velo_mixeur_bois.jpg"><img src="velo_mixeur_bois.jpg" height="250" title="Crédit photo Low-Tech Lab Grenoble"></a>  
 <a href="velo_generateur.jpg"><img src="velo_generateur.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>

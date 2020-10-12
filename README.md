@@ -55,7 +55,15 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
     * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
     * [Intervention Low Tech & Design](https://pad.lamyne.org/lowtech_design_181129) durant une rencontre [IxDa](https://www.ixda-lyon.fr/) sur Anthropocène, design des externalités & lowtech. - 2018
   * [Etika Mondo](https://etikamondo.com/) - Formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
+    * [Machine à laver à pédales](https://pad.lamyne.org/PjxgCj5FTn2hVtwWKuhQfA#) - atelier d'initiation
+    * [Marmitte norvégienne](https://pad.lamyne.org/marmite_norvegienne_tuto) 
+    * Parabole solaire
+    * ...
   <br>
+
+<a href="etika_marmitte_norvegienne.jpg"><img src="alec01.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a> 
+<a href="etika_capteur_solaire.jpg"><img src="FdS2018_energie_puissance.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>
+
 
 > Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
 

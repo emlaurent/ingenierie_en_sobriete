@@ -37,10 +37,10 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
   * Des compteurs connectés (avec liens) (déjà fait) -> à ajouter dans l'annuaire low-tech
   * [Contribution à la Biennale du Design 2017](biennale_design2017.md)
 
-<a href="alec01.jpg"><img src="alec01.jpg" high="250" title="velo"></a> - 
-<a href="FdS2018_energie_puissance.jpg"><img src="FdS2018_energie_puissance.jpg" high="250" title="velo"></a> - 
-<a href="velo_generateur.jpg"><img src="velo_generateur.jpg" high="250" title="velo"></a> - 
-<a href="velo_mixeur_bois.jpg"><img src="velo_mixeur_bois.jpg" high="250" title="velo"></a>
+<a href="alec01.jpg"><img src="alec01.jpg" height="250" title="velo"></a> - 
+<a href="FdS2018_energie_puissance.jpg"><img src="FdS2018_energie_puissance.jpg" height="250" title="velo"></a> - 
+<a href="velo_generateur.jpg"><img src="velo_generateur.jpg" height="250" title="velo"></a> - 
+<a href="velo_mixeur_bois.jpg"><img src="velo_mixeur_bois.jpg" height="250" title="velo"></a>
 
 ### Appropriation collective de low-tech
 > * **[Cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>

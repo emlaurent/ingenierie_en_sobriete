@@ -48,8 +48,8 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 > * **[Cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
 > * **Conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
 
-<img src="cuisine_remorque.jpg" height="250" title="cuisine mobile"> - 
-<img src="cuisine_abri.png" height="250" title="cuisine mobile">
+<img src="cuisine_remorque.jpg" height="200" title="cuisine mobile"> - 
+<img src="cuisine_abri.png" height="200" title="cuisine mobile">
 
 ## C/ Transmission & formation
   * [Ecole des Mines de Saint-Etienne](dynamo_days_mines_sainte.md) - Facilitateur durant des Hackathon de 2018 à 2020

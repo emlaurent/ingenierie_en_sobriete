@@ -9,12 +9,10 @@ Photo Sylvia Fredriksson
 <br>
 
 <img src="biennale_fork.jpg" high="500" align="center" title="Biennale du design 2017">
-Photo Sylvia Fredriksson
-<br>
+Photo Sylvia Fredriksson<br>
 
 <img src="biennale_velogenerateur2.jpg" high="500" align="center" title="Biennale du design 2017">
-Photo Auteur Inconnu
-<br>
+Photo Auteur Inconnu<br>
 
 “Energy by drill” a été largement utilisé par les visiteurs pour allumer des lampes suivant la puissance produite. Une partie des éléments de ce système électronique (les boîtiers, relais, alimentation, …) provenait d'un tas de déchets issus des travaux du bâtiment de l'exposition. #upcycling
 

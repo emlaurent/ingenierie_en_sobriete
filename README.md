@@ -52,6 +52,11 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 <img src="cuisine_abri.png" height="170" title="cuisine mobile">
 
 ## C/ Transmission & formation
+
+>
+> **[Pour avoir une vue large de mes activités de transmission](interventions.md)**
+> 
+
   * Ecole des Mines de Saint-Etienne - [Facilitateur durant des Hackathons](dynamo_days_mines_sainte.md) de 2018 à 2020
   
   * Tables rondes 

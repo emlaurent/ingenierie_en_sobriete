@@ -52,3 +52,5 @@
 - Webinaire de The Shift Project « Quel·le ingénieur·e pour un monde résilient ? » - [**documentation**](https://pad.lamyne.org/ingenieur_resilience_insa_shifter_201109#) *(Nov. 2020)*
 
 - Conférence de Philippe Bihouix durant la [Semaine des Alternatives Durables (SDAD)](https://www.insa-lyon.fr/fr/evenement/semaine-alternatives-durables) - INSA Lyon - [**documentation**](https://pad.lamyne.org/dFEtgJUAQE62KojMvwNhGA#) *(Févr. 2019)*
+
+*Une partie des documentations sur lesquelles j'ai contribué*

@@ -1,5 +1,3 @@
-# ingénierie en sobriété
-
 > **Se réapproprier l’usage des technologies avec les questions d'énergies & de ressources en s’appuyant sur l'approche de la sobriété des low-tech.**
 
 **Emmanuel LAURENT**<br>

@@ -14,20 +14,30 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 * Pour vous aider à comprendre ce qu'est la Myne: [en historique](http://movilab.org/index.php?title=La_MYNE), [en vidéo](https://videos.lescommuns.org/videos/embed/a7fe81c1-f4f5-4841-81c3-7d34b717044f) (en 3 min), [en audio](https://lamyne.bandcamp.com/album/rapport-dactivit-audio-2019) (40min. - rapport d'activité 2019)
 * Dans ce laboratoire citoyen, j'ai initié des [activités low-tech](https://pad.lamyne.org/labolowtech-annuaire#)<br>
 
-> Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[mon intention](intention_pratiques_collaboratives.md)** - réflexions en cours.
+> Ces pratiques collaboratives peuvent bénéficier au développement des low-tech: **[mon intention](intention_pratiques_collaboratives.md)** - réflexions en cours à mettre à jours.
 
 ### Savoirs communs
 * Bibliographie et pratiques de documentation en tiers-lieux (en cours de formalisation)
 
 ### Ingénierie collaborative & distribuée
 * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux<br>
+> Application sur un [cuisinière solaire à base de caloducs](https://soleil-vapeur.org/)<br>
+Développée entre et 2015 et 2019. En cours d'amélioration en 2022-23.<br>
+<img src="cuisiniere_solaire_caloduc.png" width="400" align="center" title="cuisine_caloduc">
 
-> Application sur SolarOSE2, concentrateur solaire open-source & low-tech<br>
+> Application sur un concentrateur solaire open-source & low-tech<br>
 [Vue d'ensemble](https://movilab.org/wiki/Concentrateur_solaire) et [documentation des actions en cours](https://pad.lamyne.org/solarOSE2#)
 
 <img src="solarOSE_nevez2018.jpg" width="400" align="center" title="SolarOSE">
 
 ## B/ Expérimentations en labo & sur le terrain
+
+### Appropriation collective de low-tech
+> * **[Cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
+> * **Conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
+
+<img src="cuisine_remorque.jpg" height="170" title="cuisine mobile"> 
+<img src="cuisine_abri.png" height="170" title="cuisine mobile">
 
 ### Programme de recherche Visiblenergie
 
@@ -42,25 +52,22 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 <a href="velo_mixeur_bois.jpg"><img src="velo_mixeur_bois.jpg" height="250" title="Crédit photo Low-Tech Lab Grenoble"></a> 
 <a href="velo_generateur.jpg"><img src="velo_generateur.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>
 
-### Appropriation collective de low-tech
-> * **[Cuisine low-tech](https://pad.lamyne.org/cuisine_low-tech_mobile#) et [sa transposition mobile](https://pad.lamyne.org/cuisine_conviviale#)**<br>
-> * **Conserverie alimentaire low-tech** : [session d'expérimentation en sept. - oct 2020](https://movilab.org/wiki/Low-tech_Camp)
-
-<img src="cuisine_remorque.jpg" height="170" title="cuisine mobile"> 
-<img src="cuisine_abri.png" height="170" title="cuisine mobile">
-
 ## C/ Transmission & formation
 
 >
 > **[Pour avoir une vue large de mes activités de transmission](interventions.md)**
 > 
-
-  * Ecole des Mines de Saint-Etienne - [Facilitateur durant des Hackathons](dynamo_days_mines_sainte.md) de 2018 à 2020
+  * Formation
+    * INSA-Lyon - Accompagnement de groupes d'étudiants sur des modèles d'usages de technologies low-tech - année 2022-23
+    * [PISTE-INPG](https://ense3.grenoble-inp.fr/fr/formation/piste) - Pour une Ingénierie Sobre Techno et Eco-responsable - Formation aux enjeux Communs, OpenSource et low-tech - 2021 et 2022 
+    * Universités de Technologies - Formation d'une équipe pédagogique des UTs au rapport Low-tech & Communs - 2022 
+    * INSA-Lyon: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: des groupes d'étudiants étudient la trajectoire historique d’un système technique en intégrant les dimensions sociétales puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon - 2019-22
+    * Ecole des Mines de Saint-Etienne - [Facilitateur durant des Hackathons](dynamo_days_mines_sainte.md) de 2018 à 2020
   
   * Tables rondes 
-    * [INSA](https://pad.lamyne.org/table-ronde-low-tech-INSA-14-11-19) - Journée Campus Durable en 2019
-    * [The Greener Festival](https://pad.lamyne.org/the_greener_festival_low_tech) - 2019
-    * [Intervention Low Tech & Design](https://pad.lamyne.org/lowtech_design_181129) durant une rencontre [IxDa](https://www.ixda-lyon.fr/) sur Anthropocène, design des externalités & lowtech. - 2018
+    * INSA-Lyon - [Journées SDAD 2023](https://mailchi.mp/ef03c09e526d/semaine-des-alternatives-durables-2023)
+    * [Forum des Usages Coopératifs de Brest](https://forum-usages-cooperatifs.net/?LesLowtech) 2022 - Sessions Low-tech avec sa [prise de notes](https://pad.lamyne.org/FUC22_low-tech_mercredi)
+ 
   * [Etika Mondo](https://etikamondo.com/) - Formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
     * [Machine à laver à pédales](https://pad.lamyne.org/PjxgCj5FTn2hVtwWKuhQfA#) - atelier d'initiation
     * [Marmitte norvégienne](https://pad.lamyne.org/marmite_norvegienne_tuto) 
@@ -71,19 +78,13 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 <a href="etika_marmitte_norvegienne.jpg"><img src="etika_marmitte_norvegienne.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a> 
 <a href="etika_capteur_solaire.jpg"><img src="etika_capteur_solaire.jpg" height="250" title="Crédit photo Emmanuel Laurent"></a>
 
-
-> Expérimentation en cours: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: chercher, en groupe d'étudiants, à comprendre la trajectoire historique d’un système technique en intégrant les dimensions plus sociétales avec facteurs économiques, sociologiques, culturel, environnementaux & politiques puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon.
-
 # Ecosystèmes en lien
   * [La Myne](https://www.lamyne.org/): mon terrain de jeu principal :-)
   * [INSA Lyon](https://www.insa-lyon.fr/)
   * [Communecter](https://www.communecter.org/#): réseau social libre.
   * [Oxamyne](https://www.oxamyne.org/): coopérative d'entrepreneurs travaillant dans l’hybridation des savoirs-faire et une contribution aux communs.
-  * [La Fabrique des Énergies](https://fabenergies.cc/): incubateur à communs co-porté par Oxamyne, la Fabrique des Mobilités et l'ADEME dont l’intention est de réunir la plus grande diversité de sensibilités, d’expertises et de disciplines liées à l’énergie. 
-
+  
 # Des besoins
-
-* Recherche de **territoires d'expérimentation** (ville ou quartier, contexte ou écosystème, lieu de formation ou de partage) **en Ile de France** pour y développer les suites de ces actions dans le cadre d'une réponse à l'[AMI low-tech initié par l'ADEME IDF](https://appelsaprojets.ademe.fr/aap/IDFLOWTECH2020-52) (session 2 de déc. 2020).
 
 * Création en cours d'un **laboratoire d'expérimentation de technologies sobres** à la Myne >> recherche de partenaires et de contributeurs
 

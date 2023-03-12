@@ -57,19 +57,20 @@ Développée entre et 2015 et 2019. En cours d'amélioration en 2022-23.<br>
 
 >
 > **[Pour avoir une vue large de mes activités de transmission](interventions.md)**
-> 
-  * Formation
-    * INSA-Lyon - Accompagnement de groupes d'étudiants sur des modèles d'usages de technologies low-tech - année 2022-23
-    * [PISTE-INPG](https://ense3.grenoble-inp.fr/fr/formation/piste) - Pour une Ingénierie Sobre Techno et Eco-responsable - Formation aux enjeux Communs, OpenSource et low-tech - 2021 et 2022 
-    * Universités de Technologies - Formation d'une équipe pédagogique des UTs au rapport Low-tech & Communs - 2022 
+>
+
+  * **Formation**
+    * **INSA-Lyon** - Accompagnement de groupes d'étudiants sur des modèles d'usages de technologies low-tech - année 2022-23
+    * **[PISTE-INPG](https://ense3.grenoble-inp.fr/fr/formation/piste)** - Pour une Ingénierie Sobre Techno et Eco-responsable - Formation aux enjeux Communs, OpenSource et low-tech - 2021 et 2022 
+    * **Universités de Technologies** - Formation d'une équipe pédagogique des UTs au rapport Low-tech & Communs - 2022 
     * INSA-Lyon: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: des groupes d'étudiants étudient la trajectoire historique d’un système technique en intégrant les dimensions sociétales puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon - 2019-22
     * Ecole des Mines de Saint-Etienne - [Facilitateur durant des Hackathons](dynamo_days_mines_sainte.md) de 2018 à 2020
   
-  * Tables rondes 
+  * **Tables rondes**
     * INSA-Lyon - [Journées SDAD 2023](https://mailchi.mp/ef03c09e526d/semaine-des-alternatives-durables-2023)
     * [Forum des Usages Coopératifs de Brest](https://forum-usages-cooperatifs.net/?LesLowtech) 2022 - Sessions Low-tech avec sa [prise de notes](https://pad.lamyne.org/FUC22_low-tech_mercredi)
  
-  * [Etika Mondo](https://etikamondo.com/) - Formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
+  * **[Etika Mondo](https://etikamondo.com/)** - Formateur en low-tech (théorie & initiation à la pratique) de 250 personnes - sur 2 mois à l'été 2019
     * [Machine à laver à pédales](https://pad.lamyne.org/PjxgCj5FTn2hVtwWKuhQfA#) - atelier d'initiation
     * [Marmitte norvégienne](https://pad.lamyne.org/marmite_norvegienne_tuto) 
     * Cuiseur solaire parabolique

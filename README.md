@@ -21,8 +21,8 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 
 ### Ingénierie collaborative & distribuée
 * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux<br>
-> Application sur un [cuisinière solaire à base de caloducs](https://soleil-vapeur.org/5-sommaires-et-pdf/caloducs.pdf)<br>
-Développée entre et 2015 et 2019 par le [collectif soleil-vapeur](https://soleil-vapeur.org/). En cours de reprise et d'amélioration en 2022-23.<br>
+> Application sur une [cuisinière solaire à base de caloducs](https://soleil-vapeur.org/5-sommaires-et-pdf/caloducs.pdf)<br>
+Développée entre 2015 et 2019 par le [collectif soleil-vapeur](https://soleil-vapeur.org/). En cours de reprise et d'amélioration en 2022-23.<br>
 
 <img src="cuisine_caloduc.png" width="400" align="center" title="cuisine_caloduc">
 

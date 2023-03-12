@@ -23,7 +23,8 @@ Ingénieur physicien de formation et docteur en instrumentation micro-optique. M
 * Basée sur les pratiques de la Myne et d'autres écosystèmes en tiers-lieux<br>
 > Application sur un [cuisinière solaire à base de caloducs](https://soleil-vapeur.org/)<br>
 Développée entre et 2015 et 2019. En cours d'amélioration en 2022-23.<br>
-<img src="cuisiniere_solaire_caloduc.png" width="400" align="center" title="cuisine_caloduc">
+
+<img src="cuisine_caloduc.png" width="400" align="center" title="cuisine_caloduc">
 
 > Application sur un concentrateur solaire open-source & low-tech<br>
 [Vue d'ensemble](https://movilab.org/wiki/Concentrateur_solaire) et [documentation des actions en cours](https://pad.lamyne.org/solarOSE2#)

@@ -61,12 +61,16 @@ Développée entre 2015 et 2019 par le [collectif soleil-vapeur](https://soleil-
 
   * **Formation**
     * **INSA-Lyon** - Accompagnement de groupes d'étudiants sur des modèles d'usages de technologies low-tech - année 2022-23
-    * **[PISTE-INPG](https://ense3.grenoble-inp.fr/fr/formation/piste)** - Pour une Ingénierie Sobre Techno et Eco-responsable - Formation aux enjeux Communs, OpenSource et low-tech - 2021 et 2022 
+    * **[PISTE-INPG](https://ense3.grenoble-inp.fr/fr/formation/piste)** - Pour une Ingénierie Sobre Techno et Eco-responsable - Formation aux enjeux Communs, OpenSource et low-tech - 2021, 2022 et 2023 
     * **Universités de Technologies** - Formation d'une équipe pédagogique des UTs au rapport Low-tech & Communs - 2022 
     * INSA-Lyon: **[PASTECH (PAradigmes, Sociétés, TECHnologies)](https://pad.lamyne.org/pastech_2018_19)**: des groupes d'étudiants étudient la trajectoire historique d’un système technique en intégrant les dimensions sociétales puis [publier une synthèse sur un wiki](https://fr.wikiversity.org/wiki/Recherche:Pastech). Formation aux notions de low-tech, d'open-source, de communs et accompagnement à la rédaction wiki avec des enseignants de l'INSA-Lyon - 2019-22
     * Ecole des Mines de Saint-Etienne - [Facilitateur durant des Hackathons](dynamo_days_mines_sainte.md) de 2018 à 2020
   
+  * **S-MART Academy**
+    * Accompagnement au développement de la **plate-forme de partage de supports de formation** [S-MART Academy](https://s-mart.fr/academy/)
+  
   * **Tables rondes**
+    * [Journées JESER]([https://mailchi.mp/ef03c09e526d/semaine-des-alternatives-durables-2023](https://www.mouvement-ser.org/programme/) à Lyon en 2022 et la [documentation des échanges](https://pad.lescommuns.org/doc_JESER2022#)
     * INSA-Lyon - [Journées SDAD 2023](https://mailchi.mp/ef03c09e526d/semaine-des-alternatives-durables-2023)
     * [Forum des Usages Coopératifs de Brest](https://forum-usages-cooperatifs.net/?LesLowtech) 2022 - Sessions Low-tech avec sa [prise de notes](https://pad.lamyne.org/FUC22_low-tech_mercredi)
  

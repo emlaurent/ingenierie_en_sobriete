@@ -70,7 +70,7 @@ Développée entre 2015 et 2019 par le [collectif soleil-vapeur](https://soleil-
     * Accompagnement au développement de la **plate-forme de partage de supports de formation** [S-MART Academy](https://s-mart.fr/academy/)
   
   * **Tables rondes**
-    * [Journées JESER]([https://mailchi.mp/ef03c09e526d/semaine-des-alternatives-durables-2023](https://www.mouvement-ser.org/programme/) à Lyon en 2022 et la [documentation des échanges](https://pad.lescommuns.org/doc_JESER2022#)
+    * Journées des Savoirs Engagés et Reliés [JESER](https://www.mouvement-ser.org/programme/) à Lyon en 2022 et la [documentation des échanges](https://pad.lescommuns.org/doc_JESER2022#)
     * INSA-Lyon - [Journées SDAD 2023](https://mailchi.mp/ef03c09e526d/semaine-des-alternatives-durables-2023)
     * [Forum des Usages Coopératifs de Brest](https://forum-usages-cooperatifs.net/?LesLowtech) 2022 - Sessions Low-tech avec sa [prise de notes](https://pad.lamyne.org/FUC22_low-tech_mercredi)
  
